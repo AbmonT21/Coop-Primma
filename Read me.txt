@@ -1,0 +1,3 @@
+Saludos, 
+
+En esta carpeta encontrara nuestra base de datos exportada con sus tablas y su contenido (Base de datos - Schema) y un script de la creacion original de la base de datos (Coop Primma Creation) la cual fue modificada a lo largo del desarrollo del programa. Al decir modificada nos referimos a que algunas filas fueron agregadas, eliminadas o modificadas.
